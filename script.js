@@ -117,6 +117,7 @@ function generateAndDownload() {
   // Create a download link with a name containing the total number of cards
   const link = document.createElement("a");
   link.href = URL.createObjectURL(blob);
-  link.download = `${totalModules} carduri.drawio`; // Filename will be schema6_carduri.drawio, schema12_carduri.drawio, etc.
+  link.download = `${totalModules} cards.drawio`; // Filename will be schema6_carduri.drawio, schema12_carduri.drawio, etc.
   link.click();
 }
+
