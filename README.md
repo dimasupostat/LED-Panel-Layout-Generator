@@ -19,4 +19,6 @@ This web application allows you to generate a custom layout for LED panels, spec
 - **JavaScript**: Logic for generating the layout and the XML file.
 
 ## Example Layout:
-
+<img width="351" height="142" alt="schema_panouri_carduri (1) drawio (1)" src="https://github.com/user-attachments/assets/8e066850-bf86-433e-bfb2-799821a9d001" />
+</br>
+<img width="521" height="96" alt="schema_panouri_carduri (1) drawio" src="https://github.com/user-attachments/assets/0023aea9-ddc4-4fc1-b33a-92259811f607" />
